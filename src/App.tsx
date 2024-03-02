@@ -1,3 +1,9 @@
+import { Box } from '@mui/material'
+
 export const App = () => {
-  return <h1>QTrition</h1>
+  return (
+    <Box>
+      <h1>QTrition</h1>
+    </Box>
+  )
 }
